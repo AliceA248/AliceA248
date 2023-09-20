@@ -2,6 +2,35 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4682B4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Alice+Almeida;I'm+24+years+old;I'm+from+Rio+de+Janeiro;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+
+<p align="center">
+    Minha jornada teve início com uma sólida formação em Administração pela Universidade Federal do Rio de Janeiro e nesse ambiente acadêmico diversificado, desenvolvi uma compreensão abrangente dos princípios de gestão e estratégias de negócios.
+    <br><br>
+    Durante esse período na universidade e no mercado de trabalho, minha paixão pela tecnologia cresceu ao longo do tempo. À medida que me aproximava do final da faculdade, busquei ferramentas para entender as tecnologias do dia a dia e como aplicá-las para melhorar o cotidiano.
+    <br><br>
+    Ao longo do tempo, mergulhei no desenvolvimento web, adquirindo experiência em várias tecnologias-chave por meio de projetos práticos e desafios estimulantes, pude aplicar essas habilidades de maneira criativa.
+    <br><br>
+    Meu objetivo é combinar minha formação em administração com minha paixão pela tecnologia, buscando oportunidades que me permitam criar soluções inovadoras e eficientes para os desafios do mundo empresarial moderno. Estou determinada a continuar meu crescimento como desenvolvedora, colaborando em projetos significativos e mantendo-me atualizada com as últimas tendências do setor.
+</p>
+
+ ### Skills:
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Styled-Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JEST](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
+
+
+### Studying in this moment:
+![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
 [![Almeida's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AliceA248&bg_color=000080&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&hide_border=true)](https://github.com/AliceA248/github-readme-activity-graph)
 
 <p align="center">
@@ -23,24 +52,4 @@
 <a href="https://instagram.com/alicealmeida248" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
  </div>
  
- ### Skills:
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Styled-Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JEST](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
-
-
-### Studying in this moment:
-![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=120&section=footer"/>
