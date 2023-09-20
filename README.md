@@ -8,7 +8,7 @@
     <br><br>
     Durante esse período na universidade e no mercado de trabalho, minha paixão pela tecnologia cresceu ao longo do tempo. À medida que me aproximava do final da faculdade, busquei ferramentas para entender as tecnologias do dia a dia e como aplicá-las para melhorar o cotidiano.
     <br><br>
-    Ao longo do tempo, mergulhei no desenvolvimento web, adquirindo experiência em várias tecnologias-chave por meio de projetos práticos e desafios estimulantes, pude aplicar essas habilidades de maneira criativa.
+    Mergulhei no desenvolvimento web, adquirindo experiência em várias tecnologias-chave por meio de projetos práticos e desafios estimulantes, onde pude aplicar essas habilidades de maneira criativa.
     <br><br>
     Meu objetivo é combinar minha formação em administração com minha paixão pela tecnologia, buscando oportunidades que me permitam criar soluções inovadoras e eficientes para os desafios do mundo empresarial moderno. Estou determinada a continuar meu crescimento como desenvolvedora, colaborando em projetos significativos e mantendo-me atualizada com as últimas tendências do setor.
 </p>
