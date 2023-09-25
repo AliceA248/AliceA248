@@ -42,10 +42,7 @@
 <br><br>
 
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AliceA248&theme=darkhub&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" style="color: #4682B4;" />
-</p>
-<br><br>
+
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AliceA248&show_icons=true&count_private=true&hide_border=true&title_color=00FFFF&icon_color=00FFFF&text_color=4682B4&bg_color=0d1117" alt="AliceA248 github stats" /> 
