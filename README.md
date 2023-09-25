@@ -4,7 +4,7 @@
 
 
 <p align="center">
-    Minha jornada teve início com uma sólida formação em Administração pela Universidade Federal do Rio de Janeiro e nesse ambiente acadêmico diversificado, desenvolvi uma compreensão abrangente dos princípios de gestão e estratégias de negócios.
+    Minha jornada teve início com uma formação em Administração pela Universidade Federal do Rio de Janeiro e nesse ambiente acadêmico diversificado, desenvolvi uma compreensão abrangente dos princípios de gestão e estratégias de negócios.
     <br><br>
     Durante esse período na universidade e no mercado de trabalho, minha paixão pela tecnologia cresceu ao longo do tempo. À medida que me aproximava do final da faculdade, busquei ferramentas para entender as tecnologias do dia a dia e como aplicá-las para melhorar o cotidiano.
     <br><br>
