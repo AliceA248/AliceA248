@@ -41,7 +41,6 @@
 <br><br>
 <br><br>
 
-[![Almeida's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AliceA248&bg_color=000080&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&hide_border=true)](https://github.com/AliceA248/github-readme-activity-graph)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AliceA248&theme=darkhub&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" style="color: #4682B4;" />
